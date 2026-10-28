@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+:root {
+  font-family: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+html { scroll-behavior: smooth; }
+body { margin: 0; }
+button, a, input { -webkit-tap-highlight-color: transparent; }
+
+.tone-violet { background: #d5ccf4; color: #4e3d94; }
+.tone-blue { background: #d9e7ff; color: #315ca7; }
+.tone-amber { background: #f9e7b9; color: #946819; }
+.tone-pink { background: #f6d9e6; color: #9c4f76; }
+.tone-cyan { background: #d2f0f4; color: #287c8b; }
+.tone-green { background: #d9eadb; color: #39724a; }
+.tone-orange { background: #f8dfcb; color: #9b5a2d; }
