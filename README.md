@@ -33,5 +33,3 @@ Edit `src/data/certificates.js` and add/update an object. Optional fields:
 - `image`: e.g. `/certificates/salesforce-admin.png`
 - `verificationUrl`: the credential verification page URL
 - `featured`: set to `true` to feature the card in the Bento grid
-
-All example certificates and IDs are demo data. Replace them with real details before publishing.
